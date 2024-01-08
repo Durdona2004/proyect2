@@ -1,0 +1,100 @@
+body{
+    background-image: linear-gradient(rgb(23, 231, 23),yellow);
+    height: 100%;
+}
+.q1{
+    margin: 10px;
+    background-color:blue;
+    height: 70px;
+    width: 300px;
+    border-top: 70px solid whitesmoke;
+    border-bottom: 70px solid red;
+
+}
+.q2{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(90deg ,green 80px,whitesmoke 80px, white 220px, green 220px);
+}
+.q3{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image:linear-gradient(90deg,rgb(44, 9, 200) 100px, rgb(249, 218, 39) 100px, rgb(249, 218, 39) 200px, red 200px  ) ;
+}
+.q4{
+    margin: 10px;
+    background-color:whitesmoke;
+    height: 80px;
+    width: 300px;
+    border-top: 80px solid rgb(28, 210, 28);
+    border-bottom: 80px solid blue;
+}
+.q5{
+    margin: 10px;
+    width: 300px ;
+    height: 100px;
+    background-color:rgb(249, 218, 39) ;
+    border-bottom:100px solid red; 
+}
+.t1{
+    width: 100px;
+    height: 200px;
+    background-color: green;
+}
+
+.q7{
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+    background-color:whitesmoke;
+    border-bottom: 100px solid red;}
+    
+.t2{
+    width: 50px;
+    border-top:100px solid transparent ;
+    border-bottom: 100px solid transparent ;
+    border-left:120px solid blue ;
+    border-right: 100px solid transparent;
+
+
+}
+.q8{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(whitesmoke 70px,rgb(31, 218, 247)70px,rgb(31, 218, 247) 130px, whitesmoke 130px);
+}
+.t3{
+    margin: auto;
+    width: 50px;
+    height: 200px;
+    background-color:rgb(31, 218, 247);
+}
+
+.q9{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image:linear-gradient(155deg,blue 120px,yellow 120px,yellow 125px,red 125px,red 175px,yellow 175px, yellow 180px,blue 180px);
+}
+.q10{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(rgb(164, 243, 254) 65px,red 65px, red 70px, white 70px, white 130px, red 130px, red 135px, rgb(32, 241, 32) 135px)
+} 
+.q11{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(red 90px,white 90px,white 110px, red 110px);
+
+}
+.t4{
+    margin-left:90px;
+    width: 30px;
+    height: 200px;
+    background-color:white;
+}
